@@ -1,16 +1,15 @@
-## Hi there 👋
+# Matthew Russo
 
-<!--
-**Matt-russo11/Matt-russo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering @ Villanova University · GPA 3.85 · Graduating May 2028 · U.S. Citizen
 
-Here are some ideas to get you started:
+**Interests:** on-premise AI systems · FPGA and digital design · embedded software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Highlights
+- **[On-Premise LLMs for Sensitive Data](https://github.com/Matt-russo11/on-prem-llm-case-study)**
+  (AI Research Intern, Axtria, Summer 2026): deployed five open-weight LLMs on NVIDIA DGX Spark
+  hardware, built four LangGraph pipelines, and designed the evaluation framework behind every result.
+- **4x4 Array Multiplier + FPGA verification:** VHDL, Quartus Prime, ModelSim and Signal Tap on a DE10 board.
+
+**Languages:** C/C++ · Python · VHDL · MATLAB · ARM Assembly · Bash · JavaScript
+
+📫 mrusso08@villanova.edu · [LinkedIn](https://linkedin.com/in/matt-russo-035805334)
